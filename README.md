@@ -4,7 +4,7 @@
 預期日振幅會朝月均日振幅`均值回歸`，即某股票若早盤強勢於大盤、且當下振幅未達月均日振幅時，就做多；若已超過振幅平均門檻、且過了午盤之後仍未創當日新高，亦即動能衰退，就逆勢做空，預期該標的會回落。
 - - -
 ### 流程大綱：
-1. [群益API開通](https://github.com/smile22091/2019_Data_Mining/blob/master/HW1_Decision_Tree/notebook/Adult.ipynb)才能取得免費且不怕被鎖網路IP的股價資訊。
+1. [群益API開通](https://www.capital.com.tw/Service2/download/api.asp)才能取得免費且不怕被鎖網路IP的股價資訊。
 >1. 使用群益的疑難問題，可參考[群益api in python 取得歷史報價](https://easontseng.blogspot.com/2017/08/api-in-python.html)
 >2. 亦可使用[twstock](https://github.com/mlouielu/twstock)套件替代群益API，唯此套件抓資料過於頻繁時會鎖網路IP
 
